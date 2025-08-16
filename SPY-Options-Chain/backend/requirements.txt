@@ -1,0 +1,9 @@
+# Placeholder 
+# Requirements file for the Python backend
+
+flask==2.3.3
+flask-cors==4.0.0
+flask-socketio==5.3.4
+python-dotenv==1.0.0
+ibapi==9.81.1.post1  # IB API - may need to be installed from IBKR's website
+pytz==2023.3
